@@ -16,3 +16,12 @@ The p values for coefficients are small and f value is also small, which shows t
 - Run Multiple Regression: Salary vs. days_hired and department_id
 ## Possible Improvements:
 - department id is not a good metric for linear regression because it's in random order.One ways is re-idex depart_id by mean_salary. The other is using soft regression.
+## Files:
+All data in this excel:[data]:(https://github.com/jerryyao120-ndd/DAF-CLASS-MINIPROJECR2-GOVERNMENT-SALARY-VS--TIME-AND-DEPARTMENT/blob/master/Baltimore_City_Employee_Salaries_FY2019.xlsx)
+- Original data in sheet Baltimore_City_Employee_Salaries 
+- Modified data for regression in sheet Datasheet_used
+- Regression data in sheet Simple_Regression and Multiple Regression
+## Visualization:
+![1](https://github.com/jerryyao120-ndd/DAF-CLASS-MINIPROJECR2-GOVERNMENT-SALARY-VS--TIME-AND-DEPARTMENT/blob/master/MP2-1.png)
+![2](https://github.com/jerryyao120-ndd/DAF-CLASS-MINIPROJECR2-GOVERNMENT-SALARY-VS--TIME-AND-DEPARTMENT/blob/master/MP2-2.png)
+
